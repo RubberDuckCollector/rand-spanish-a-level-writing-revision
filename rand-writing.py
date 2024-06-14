@@ -46,7 +46,7 @@ volver_questions = [
     "A pesar de la situación difícil de la familia de Raimunda, la película nos hace reír. ¿Estás de acuerdo?",
     "Analiza la representación de los hombres en la película.",
     "Analiza los tipos deferentes de amor en Volver.",
-    "Analiza los temas del filme. ¿Cuál de ellos te parece más importantes?",
+    "Analiza los temas del filme. ¿Cuál de ellos te parece más importante?",
     "Analiza la importancia del título 'Volver'.",
     "En esta película, las mujeres tiene todo el poder. ¿Estás de acuerdo?.",
     "Analiza las razones por las que la película es tan exitosa.",
